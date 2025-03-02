@@ -41,7 +41,9 @@ const Column = ({ column, onDelete, onRename }: {
 
       const data = await response.json()
       if (columnId === column._id) {
-        setCards(data)
+        // Sort the cards based on their Id to display them in correct order
+        const sorted = column.cards.map(cardId => data.find((card: ICard) => card._id === cardId))
+        setCards(sorted)
       } else
         console.log("Column Id mismatch")
 
