@@ -24,7 +24,7 @@ https://youtu.be/ZDxcWiTm0Mo
 -	To begin using the application, use the buttons on the header or the links on the home page to either register a new user or log in to an already existing one
 -	During registration, do note that usernames are unique *(means you cannot choose a username that already exists)*, and passwords must contain at least one number and one special character
 -	After registration, the user will be redirected to the login page. Another way to get to this page is by first going to the home page, and then choosing to log in *(from link or header button)*
--	After entering the user’s credentials correctly to the login page, the user will be redirected to the Kanban Board. At this moment, an option for logging out appears to the header. In order to log out of the application, simply click Logout.
+-	After entering the user’s credentials correctly to the login page, the user will be redirected to the Kanban Board. At this moment, an option for logging out appears to the header. In order to log out of the application, simply click "**Logout**".
 -	To create new columns, click the “**Add Column**” -button found in the Kanban Board. The user will be redirected to another page where a title for the new column must be given. After filling in the fields, click “**Add Column**”.
 -	To delete a column, click the “**Delete Column**” -button found inside the column. This will delete all possible child objects *(cards, comments)* before deleting the column.
 -	To update a column, click the title of the column. A text field will appear, and the user can rename the title. Click anywhere else on the UI to update the title.
