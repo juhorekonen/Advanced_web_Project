@@ -3,3 +3,9 @@
   padding: 2rem;
   text-align: center;
 }
+
+/* Force white background with black text for users who use dark mode*/
+body {
+  background-color: white;
+  color: black
+}
