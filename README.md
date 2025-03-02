@@ -3,7 +3,8 @@ Student ID: 441410
 
 This is my Full Stack Project I made on the course: CT30A3204 Advanced Web Applications</br>
 
-**Coming soon: Screenshot on working project**
+![kuva](https://github.com/user-attachments/assets/6e536607-dfe0-4f37-972a-0e922a8a9087)
+
 
 The application Kanban lets authenticated users create columns, cards, and comments to the Kanban Board. It uses JSONWebToken to authenticate registered users during login process.
 
